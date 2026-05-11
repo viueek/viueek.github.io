@@ -1,6 +1,7 @@
 ---
 title: "目次"
 layout: "page"
+type: "page"
 ---
 
 ## 2026年

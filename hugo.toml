@@ -8,3 +8,4 @@ theme = 'PaperMod'
     math = true
     hideHomePageList = true
     ShowFullTextContent = false
+    mainSections = ["nothing"]
