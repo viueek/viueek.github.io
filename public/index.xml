@@ -6,41 +6,6 @@
     <description>Recent content in 2026年 on 記録</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Feb 2027 08:51:30 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>1日</title>
-      <link>http://localhost:1313/posts/2027/02/01/</link>
-      <pubDate>Mon, 01 Feb 2027 08:51:30 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2027/02/01/</guid>
-      <description>&lt;p&gt;じっけん&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1日</title>
-      <link>http://localhost:1313/posts/2026/06/01/</link>
-      <pubDate>Mon, 01 Jun 2026 08:51:30 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2026/06/01/</guid>
-      <description>&lt;p&gt;んべあ&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>11日</title>
-      <link>http://localhost:1313/posts/2026/05/11/</link>
-      <pubDate>Mon, 11 May 2026 08:51:30 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2026/05/11/</guid>
-      <description>&lt;p&gt;初めての記事です&lt;/p&gt;
-&lt;p&gt;文章の中に混ぜる場合は、1つの &lt;code&gt;$&lt;/code&gt; で囲みます。ブラウン運動$B_t$からポアソン過程を作ります。&lt;/p&gt;
-&lt;p&gt;独立して大く表示する場合は、2つの $$ を使い、必ず改行して挟みます。&lt;/p&gt;
-&lt;p&gt;$$
-X_t = \mu t + \sigma B_t
-$$&lt;/p&gt;
-&lt;p&gt;最近、&lt;a href=&#34;https://youtu.be/HdCYNiepuI0?si=YnFf9_WwxU4pDIsS&#34;&gt;この動画&lt;/a&gt; を見てとても参考になりました。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>12日</title>
-      <link>http://localhost:1313/posts/2026/05/12/</link>
-      <pubDate>Mon, 11 May 2026 08:51:30 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2026/05/12/</guid>
-      <description>&lt;p&gt;うおおgit add .&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
