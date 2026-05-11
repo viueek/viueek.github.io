@@ -1,8 +1,8 @@
 baseURL = 'https://viueek.github.io/'
+buildFuture = true
 languageCode = 'ja'
 title = '記録'
 theme = 'PaperMod'
-buildFuture = true
 
 [params]
     math = true
