@@ -12,3 +12,5 @@ theme = 'PaperMod'
     name = "アーカイブ"
     url = "/archives/"
     weight = 10
+
+    buildFuture = true
