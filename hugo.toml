@@ -1,16 +1,13 @@
+# 上の方はそのまま
 baseURL = 'https://viueek.github.io/'
+buildFuture = true
 languageCode = 'ja'
 title = '記録'
 theme = 'PaperMod'
 
 [params]
-  math = true
-
-[menu]
-  [[menu.main]]
-    identifier = "archives"
-    name = "アーカイブ"
-    url = "/archives/"
-    weight = 10
-
-    buildFuture = true
+    math = true
+    # トップページの下に記事リストを出さない設定
+    hideHomePageList = true
+    # 記事の抜粋（んべ、など）を出さない設定
+    ShowFullTextContent = false
