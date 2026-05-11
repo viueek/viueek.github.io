@@ -1,0 +1,14 @@
+baseURL = 'https://example.com/'
+languageCode = 'ja'
+title = '日々の記録'
+theme = 'PaperMod'
+
+[params]
+  math = true
+
+[menu]
+  [[menu.main]]
+    identifier = "archives"
+    name = "アーカイブ"
+    url = "/archives/"
+    weight = 10
