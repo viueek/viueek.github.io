@@ -1,6 +1,6 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://viueek.github.io/'
 languageCode = 'ja'
-title = '日々の記録'
+title = '記録'
 theme = 'PaperMod'
 
 [params]
