@@ -10,3 +10,6 @@ type: "page"
 
 ## 2027年
 - [2月](/posts/2027/02/)
+
+## そのほか
+- [メモ](/posts/others/memo/)
